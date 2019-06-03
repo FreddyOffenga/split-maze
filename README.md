@@ -1,2 +1,6 @@
 # split-maze
-128 Bytes intro for Outline 2k19
+For Outline 2k19, 128 bytes compo
+
+Platform: Atari XL/XE
+
+F#READY, May 2019
